@@ -1,0 +1,3 @@
+lager
+stout
+non-alcoholic
